@@ -19,7 +19,6 @@
 # **PPT**
 ![image](https://github.com/iamtaewon/Project_2/assets/127276976/9727bdb1-3500-4116-8a6c-c024cedca17e)
 ![image](https://github.com/iamtaewon/Project_2/assets/127276976/f8a7b64e-e315-4582-9831-329172c44160)
-![image](https://github.com/iamtaewon/Project_2/assets/127276976/a90c83de-84a9-4104-8712-2db55e0054f6)
 ![image](https://github.com/iamtaewon/Project_2/assets/127276976/adc6c3d8-937e-4dda-ba88-71868e0ab19c)
 ![image](https://github.com/iamtaewon/Project_2/assets/127276976/4ac00091-b16b-4838-8396-f209d0dc3f64)
 ![image](https://github.com/iamtaewon/Project_2/assets/127276976/274fcd71-354c-458d-ae1a-5a34047de2ec)
